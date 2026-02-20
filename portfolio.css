@@ -179,4 +179,49 @@ main{
 
 /* skills section end */
 
+/* resume section srart */
+
+.resume{
+    margin-bottom: 55px;
+}
+
+.resume-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+}
+
+.resume-Education, .resume-Experience {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.experience-title {
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.experience-subtitle{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.experience-description{
+    font-size: 18px;
+}
+
+.experience-description, .experience-subtitle {
+    color: #757575;
+}
+
+.resume-download{
+    margin-top: 50px;
+}
+
+
+/* resume section end */
+
 /* main section end */
